@@ -1,0 +1,4 @@
+[ERRORS]
+disable =   E0401, # Unable to import
+            C0114, # Missing docstrings
+            C0103  # File naming convention
